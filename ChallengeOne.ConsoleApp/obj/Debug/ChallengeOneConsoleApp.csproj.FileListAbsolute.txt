@@ -1,0 +1,10 @@
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.exe.config
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.exe
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\bin\Debug\ChallengeOne.Repo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\bin\Debug\ChallengeOne.Repo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\obj\Debug\ChallengeOneConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\obj\Debug\ChallengeOneConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\obj\Debug\ChallengeOneConsoleApp.csproj.CopyComplete
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\obj\Debug\ChallengeOne.ConsoleApp.exe
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeOne.ConsoleApp\obj\Debug\ChallengeOne.ConsoleApp.pdb

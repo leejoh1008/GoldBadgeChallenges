@@ -1,0 +1,6 @@
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\bin\Debug\ChallengeEightRepo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\bin\Debug\ChallengeEightRepo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\obj\Debug\ChallengeEightRepo.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\obj\Debug\ChallengeEightRepo.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\obj\Debug\ChallengeEightRepo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightRepo\obj\Debug\ChallengeEightRepo.pdb

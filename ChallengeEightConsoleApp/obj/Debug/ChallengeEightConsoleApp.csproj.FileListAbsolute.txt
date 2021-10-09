@@ -1,0 +1,15 @@
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeEightConsoleApp.exe.config
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeEightConsoleApp.exe
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeEightConsoleApp.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeEightRepo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.exe
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeOne.Repo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeEightRepo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeOne.ConsoleApp.exe.config
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\bin\Debug\ChallengeOne.Repo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\obj\Debug\ChallengeEightConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\obj\Debug\ChallengeEightConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\obj\Debug\ChallengeEightConsoleApp.csproj.CopyComplete
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\obj\Debug\ChallengeEightConsoleApp.exe
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeEightConsoleApp\obj\Debug\ChallengeEightConsoleApp.pdb

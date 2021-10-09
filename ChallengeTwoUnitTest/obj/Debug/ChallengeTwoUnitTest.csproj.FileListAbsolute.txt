@@ -1,0 +1,16 @@
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoUnitTest.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoUnitTest.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoRepo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\ChallengeTwoRepo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.csproj.CopyComplete
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallengeTwoUnitTest\obj\Debug\ChallengeTwoUnitTest.pdb

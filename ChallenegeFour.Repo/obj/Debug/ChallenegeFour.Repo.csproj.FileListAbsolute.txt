@@ -1,0 +1,6 @@
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\bin\Debug\ChallenegeFour.Repo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\bin\Debug\ChallenegeFour.Repo.pdb
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\obj\Debug\ChallenegeFour.Repo.csproj.AssemblyReference.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\obj\Debug\ChallenegeFour.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\obj\Debug\ChallenegeFour.Repo.dll
+C:\Users\Johns\source\repos\GoldBadgeChalleneges\ChallenegeFour.Repo\obj\Debug\ChallenegeFour.Repo.pdb
